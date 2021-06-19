@@ -1,0 +1,4 @@
+Container source
+https://hub.docker.com/r/azshoo/alaska/tags?page=1&ordering=last_updated
+to star with opened port use comand where 64753e417088 container ID
+docker run -d -p 8091:8091 64753e417088
